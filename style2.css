@@ -1,0 +1,22 @@
+body {
+  background-image: url("bg.gif");
+  background-size: cover;
+}
+.custom {
+  margin-top: 5rem;
+  padding-top: 7rem;
+}
+.card {
+  width: auto;
+}
+.card {
+  background-color: rgba(245, 245, 245, 0.4);
+}
+
+.card-header,
+.card-footer {
+  opacity: 1;
+}
+.card-title {
+  background-color: rgba(122, 194, 217, 0.425);
+}
