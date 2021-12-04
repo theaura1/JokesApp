@@ -3,7 +3,7 @@ body {
   background-size: cover;
 }
 .custom {
-  margin-top: 8rem;
+  margin-top: 12rem;
 margin-bottom:5rem;
 }
 .card {
@@ -19,4 +19,10 @@ margin-bottom:5rem;
 }
 .card-title {
   background-color: rgba(122, 194, 217, 0.425);
+}
+@media only screen and (max-width: 600px) {
+  .custom {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
 }
