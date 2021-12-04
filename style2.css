@@ -17,6 +17,9 @@ body {
 .custom {
     margin-top: 1rem !important;
     margin-bottom: 1rem !important;
+  padding-top:1rem !important;
+padding-bottom:1rem !important;
+border-bottom:1rem !important;
   }
 .card-title {
   background-color: rgba(122, 194, 217, 0.425);
