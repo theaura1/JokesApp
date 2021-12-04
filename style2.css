@@ -22,11 +22,10 @@ body {
   background-color: rgba(122, 194, 217, 0.425);
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 700px) {
   .custom {
-    margin-top: 1.5rem !important;
-    margin-bottom: 1rem !important;
+    margin-top: 10rem !important;
+    margin-bottom: 5rem !important;
   }
 }
-
 
